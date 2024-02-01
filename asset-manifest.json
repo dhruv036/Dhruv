@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Dhruv-Sharma/static/css/main.05603563.css",
+    "main.js": "/Dhruv-Sharma/static/js/main.e910e78f.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Dhruv-Sharma/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Arthemis.ttf": "/Dhruv-Sharma/static/media/Arthemis.36c4025cac31d92fae9f.ttf",
+    "static/media/project2.png": "/Dhruv-Sharma/static/media/project2.4ad9c8a1651dd3956047.png",
+    "static/media/hello-app.png": "/Dhruv-Sharma/static/media/hello-app.31a3be75946463c567c6.png",
+    "static/media/mysql.svg": "/Dhruv-Sharma/static/media/mysql.7a15f5952d14b7868e26aab899785e02.svg",
+    "static/media/react.svg": "/Dhruv-Sharma/static/media/react.04323e495d14d6af118a0a693a5a5e6a.svg",
+    "static/media/logo.svg": "/Dhruv-Sharma/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/gradel.svg": "/Dhruv-Sharma/static/media/gradel.7e7e4e2b9f8c4abe467373e931db885c.svg",
+    "static/media/cplusplus.svg": "/Dhruv-Sharma/static/media/cplusplus.2b8bffbe7b93832fa30e15a3270fcde5.svg",
+    "static/media/java.svg": "/Dhruv-Sharma/static/media/java.6cf9b95610c3b03023e9535e590945e3.svg",
+    "static/media/android.svg": "/Dhruv-Sharma/static/media/android.37fa2837cf82abe2afddb8b731d63480.svg",
+    "static/media/kotlin.svg": "/Dhruv-Sharma/static/media/kotlin.df19fc3ae52767ef050dde934ac90fcf.svg",
+    "index.html": "/Dhruv-Sharma/index.html",
+    "static/media/javascript.svg": "/Dhruv-Sharma/static/media/javascript.f719efab5b799ddc35b5055935a3cedd.svg",
+    "static/media/arrow-down.svg": "/Dhruv-Sharma/static/media/arrow-down.33b692370f02e8ac4eb9ac0ad88466ca.svg",
+    "static/media/full.svg": "/Dhruv-Sharma/static/media/full.3c70b18030b79a820156f0ce3004de75.svg",
+    "static/media/html5.svg": "/Dhruv-Sharma/static/media/html5.c28bc66880bc822f7aedbda70b2bf142.svg",
+    "static/media/firebase.svg": "/Dhruv-Sharma/static/media/firebase.732260bab4bae3617d71e76cce6611fa.svg",
+    "static/media/css3.svg": "/Dhruv-Sharma/static/media/css3.a970faff57243830beb36b718dbf74fc.svg",
+    "main.05603563.css.map": "/Dhruv-Sharma/static/css/main.05603563.css.map",
+    "main.e910e78f.js.map": "/Dhruv-Sharma/static/js/main.e910e78f.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Dhruv-Sharma/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05603563.css",
+    "static/js/main.e910e78f.js"
+  ]
+}
