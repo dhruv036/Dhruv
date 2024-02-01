@@ -1,0 +1,48 @@
+.App {
+    background: transparent;
+}
+
+svg {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+circle {
+    fill: none;
+    stroke-width: 20px;
+    stroke-dasharray: 472;
+    stroke-dashoffset: 472;
+    animation: anim 3s linear forwards;
+}
+
+.one {
+    animation: anim 3s linear forwards;
+}
+
+.two {
+    animation: anim2 3s linear forwards;
+}
+
+.three {
+    animation: anim3 3s linear forwards;
+}
+
+@keyframes anim {
+    100% {
+        stroke-dashoffset: 345;
+    }
+}
+
+@keyframes anim2 {
+    100% {
+        stroke-dashoffset: 320;
+    }
+}
+
+@keyframes anim3 {
+    100% {
+        stroke-dashoffset: 365;
+    }
+
+}
